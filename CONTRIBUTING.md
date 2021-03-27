@@ -1,5 +1,4 @@
 # Contributing
----
 ## Process
 - Create a fork of the project by clicking the 'Fork' button on the top of the page.
 - Clone the fork you created ``` git clone https://...```
